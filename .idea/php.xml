@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/code/vendor/composer" />
+      <path value="$PROJECT_DIR$/code/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/code/vendor/symfony/var-exporter" />
+      <path value="$PROJECT_DIR$/code/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/code/vendor/symfony/cache-contracts" />
+      <path value="$PROJECT_DIR$/code/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/code/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/code/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/code/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/code/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/code/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/code/vendor/symfony/deprecation-contracts" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="8.1" />
+</project>
