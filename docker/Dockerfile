@@ -24,3 +24,4 @@ RUN docker-php-ext-install bcmath bz2 calendar  dba exif gettext iconv intl  soa
     pecl install redis && docker-php-ext-enable redis && \
     curl -sS https://getcomposer.org/installer | php \
             && mv composer.phar /usr/bin/composer
+COPY ./php.ini /usr/local/etc/php/
